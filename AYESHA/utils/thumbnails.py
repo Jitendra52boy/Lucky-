@@ -25,7 +25,7 @@ def changeImageSize(maxWidth, maxHeight, image):
 
 
 def clear(text):
-    list = text.split(" ")
+    list = text.split("Lenovo Music")
     title = ""
     for i in list:
         if len(title) + len(i) < 60:
